@@ -1,0 +1,12 @@
+C:\Users\Administrator\csharp\FirstFlightCS\oops\bin\Debug\net6.0\oops.deps.json
+C:\Users\Administrator\csharp\FirstFlightCS\oops\bin\Debug\net6.0\oops.dll
+C:\Users\Administrator\csharp\FirstFlightCS\oops\bin\Debug\net6.0\oops.pdb
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\oops.csproj.AssemblyReference.cache
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\oops.AssemblyInfoInputs.cache
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\oops.AssemblyInfo.cs
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\oops.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\oops.dll
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\refint\oops.dll
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\oops.pdb
+C:\Users\Administrator\csharp\FirstFlightCS\oops\obj\Debug\net6.0\ref\oops.dll
